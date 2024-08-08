@@ -2,7 +2,7 @@
 
 ## Description
 10,020 Arabic natural scenarios OCR data include a variety of natural scenarios and multiple shooting angles. In terms of labeling, the quadrilateral frames of the line -level text are transliterated by row -level text. This set of data can be used in the Arabic language country OCR mission.
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1306?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/ocr/1306?source=Github
 
 
 ## Data size
